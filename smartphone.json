@@ -1,0 +1,970 @@
+[
+    {
+     "name": "Apple Watch Series 4 Alumunium Sport 40MM Silver/Gray/Gold",
+     "harga": "Rp 5,800,000"
+    },
+    {
+     "name": "Apple Watch Series 4 Alumunium Sport 44MM Silver/Gray/Gold",
+     "harga": "Rp 6,175,000"
+    },
+    {
+     "name": "Apple Watch Series 4 Alumunium Loop 40MM Silver/Gray/Gold",
+     "harga": "Rp 5,800,000"
+    },
+    {
+     "name": "Apple Watch Series 4 Alumunium Loop 44MM Silver/Gray/Gold",
+     "harga": "Rp 6,175,000"
+    },
+    {
+     "name": "Apple Watch Series 4 Nike Alumunium 40MM Silver/Gray",
+     "harga": "Rp 5,800,000"
+    },
+    {
+     "name": "Apple Watch Series 4 Nike Alumunium 44MM Silver/Gray",
+     "harga": "Rp 6,175,000"
+    },
+    {
+     "name": "Apple Watch Series 4 Nike Loop 40MM Silver/Gray",
+     "harga": "Rp 5,800,000"
+    },
+    {
+     "name": "Apple Watch Series 4 Nike Loop 44MM Silver/Gray",
+     "harga": "Rp 6,175,000"
+    },
+    {
+     "name": "Apple Watch Series 3 Sport 38MM White/Grey/Black",
+     "harga": "Rp 3,850,000"
+    },
+    {
+     "name": "Apple Watch Series 3 Sport 42MM White/Grey",
+     "harga": "Rp 4,400,000"
+    },
+    {
+     "name": "Apple Watch Series 3 Sport 42MM Black",
+     "harga": "Rp 4,400,000"
+    },
+    {
+     "name": "Apple iPhone7 32GB Black",
+     "harga": "Rp 8,250,000"
+    },
+    {
+     "name": "Apple iPhone7 32GB Silver/RoseGold",
+     "harga": "Rp 8,250,000"
+    },
+    {
+     "name": "Apple iPhone7 32GB Gold",
+     "harga": "Rp 8,250,000"
+    },
+    {
+     "name": "Apple iPhone7 128GB Black",
+     "harga": "Rp 9,150,000"
+    },
+    {
+     "name": "Apple iPhone7 128GB Silver/Gold/RoseGold",
+     "harga": "Rp 9,150,000"
+    },
+    {
+     "name": "Apple iPhone7 256GB Black",
+     "harga": "Rp 10,100,000"
+    },
+    {
+     "name": "Apple iPhone7 256GB Silver/Gold/RoseGold",
+     "harga": "Rp 10,050,000"
+    },
+    {
+     "name": "Apple iPhone7+ (Plus) 128GB Black",
+     "harga": "Rp 9,350,000"
+    },
+    {
+     "name": "Apple iPhone7+ (Plus) 256GB Black/JetBlack",
+     "harga": "Rp 9,050,000"
+    },
+    {
+     "name": "Apple iPhone8 64GB Silver/Gold",
+     "harga": "Rp 9,100,000"
+    },
+    {
+     "name": "Apple iPhone8 64GB Grey",
+     "harga": "Rp 9,100,000"
+    },
+    {
+     "name": "Apple iPhone8 64GB Red",
+     "harga": "Rp 9,150,000"
+    },
+    {
+     "name": "Apple iPhone8 256GB Silver/Gold",
+     "harga": "Rp 10,950,000"
+    },
+    {
+     "name": "Apple iPhone8 256GB Grey",
+     "harga": "Rp 10,950,000"
+    },
+    {
+     "name": "Apple iPhone8+ (Plus) 64GB Silver/Gold",
+     "harga": "Rp 10,500,000"
+    },
+    {
+     "name": "Apple iPhone8+ (Plus) 64GB Grey",
+     "harga": "Rp 10,500,000"
+    },
+    {
+     "name": "Apple iPhone8+ (Plus) 256GB Gold",
+     "harga": "Rp 12,950,000"
+    },
+    {
+     "name": "Apple iPhone8+ (Plus) 256GB Silver/Grey",
+     "harga": "Rp 12,950,000"
+    },
+    {
+     "name": "Apple iPhone X 64GB Grey",
+     "harga": "Rp 12,100,000"
+    },
+    {
+     "name": "Apple iPhone X 64GB Silver",
+     "harga": "Rp 12,100,000"
+    },
+    {
+     "name": "Apple iPhone X 256GB Grey/Silver",
+     "harga": "Rp 14,000,000"
+    },
+    {
+     "name": "Apple iPhone XR 64GB White/Black/Red/Blue - Single Sim",
+     "harga": "Rp 10,600,000"
+    },
+    {
+     "name": "Apple iPhone XR 128GB White/Black/Red/Yellow/Coral - Single Sim",
+     "harga": "Rp 11,250,000"
+    },
+    {
+     "name": "Apple iPhone XR 256GB White/Black/Red/Blue/Yellow - Single Sim",
+     "harga": "Rp 13,100,000"
+    },
+    {
+     "name": "Apple iPhone XR 64GB White/Black/Red/Blue/Yellow - Dual Sim",
+     "harga": "Rp 11,850,000"
+    },
+    {
+     "name": "Apple iPhone XR 128GB White/Black/Red/Blue/Yellow - Dual Sim",
+     "harga": "Rp 12,450,000"
+    },
+    {
+     "name": "Apple iPhone XR 256GB White/Black/Red/Blue/Yellow - Dual Sim",
+     "harga": "Rp 14,450,000"
+    },
+    {
+     "name": "Apple iPhone XS 64GB Grey/Silver/Gold - eSim",
+     "harga": "Rp 14,200,000"
+    },
+    {
+     "name": "Apple iPhone XS 256GB Grey - eSim",
+     "harga": "Rp 16,450,000"
+    },
+    {
+     "name": "Apple iPhone XS 256GB Silver - eSim",
+     "harga": "Rp 16,450,000"
+    },
+    {
+     "name": "Apple iPhone XS 256GB Gold - eSim",
+     "harga": "Rp 16,450,000"
+    },
+    {
+     "name": "Apple iPhone XS 512GB Grey/Silver/Gold - eSim",
+     "harga": "Rp 18,200,000"
+    },
+    {
+     "name": "Apple iPhone XS Max 64GB Grey/Silver/Gold - eSim",
+     "harga": "Rp 15,700,000"
+    },
+    {
+     "name": "Apple iPhone XS Max 256GB Grey/Silver/Gold - eSim",
+     "harga": "Rp 17,500,000"
+    },
+    {
+     "name": "Apple iPhone XS Max 512GB Grey/Silver/Gold - eSim",
+     "harga": "Rp 18,450,000"
+    },
+    {
+     "name": "Apple iPhone XS Max 64GB Grey/Gold - Dual Sim",
+     "harga": "Rp 16,650,000"
+    },
+    {
+     "name": "Apple iPhone XS Max 256GB Silver/Gold - Dual Sim",
+     "harga": "Rp 18,650,000"
+    },
+    {
+     "name": "Apple iPhone XS Max 512GB Silver/Gold - Dual Sim",
+     "harga": "Rp 21,900,000"
+    },
+    {
+     "name": "Hippo Battery For iPhone 4 2000 mAh",
+     "harga": "Rp 85,000"
+    },
+    {
+     "name": "Hippo Battery For iPhone 4G/4S 1430 mAh",
+     "harga": "Rp 105,000"
+    },
+    {
+     "name": "Hippo Battery For iPhone 5 1440 mAh",
+     "harga": "Rp 115,000"
+    },
+    {
+     "name": "Hippo Battery For iPhone 5S 1560 mAh",
+     "harga": "Rp 125,000"
+    },
+    {
+     "name": "Hippo Battery For iPhone 6 1810 mAh",
+     "harga": "Rp 135,000"
+    },
+    {
+     "name": "Hippo Battery For iPhone 6+ 2915 mAh",
+     "harga": "Rp 160,000"
+    },
+    {
+     "name": "Hippo Battery For iPhone 6S 1715 mAh",
+     "harga": "Rp 145,000"
+    },
+    {
+     "name": "Hippo Battery For iPhone 6S+ 2750 mAh",
+     "harga": "Rp 165,000"
+    },
+    {
+     "name": "Hippo Battery For iPad Mini 5800 mAh",
+     "harga": "Rp 125,000"
+    },
+    {
+     "name": "Hippo Battery For iPad Mini 2/3 8500 mAh",
+     "harga": "Rp 145,000"
+    },
+    {
+     "name": "Samsung DeX Pad",
+     "harga": "Rp 1,040,000"
+    },
+    {
+     "name": "Samsung Galaxy Note FE",
+     "harga": "Rp 7,010,000"
+    },
+    {
+     "name": "Samsung Galaxy Note 8 64Gb Grey/Gold - Garansi Resmi SEIN",
+     "harga": "Rp 9,250,000"
+    },
+    {
+     "name": "Samsung Galaxy Note 9 - Garansi Resmi",
+     "harga": "Rp 11,600,000"
+    },
+    {
+     "name": "Samsung Galaxy Note 8 Gold/Black - Garansi Internasional",
+     "harga": "Rp 11,400,000"
+    },
+    {
+     "name": "Samsung Galaxy Note 8 Grey - Garansi Internasional",
+     "harga": "Rp 11,250,000"
+    },
+    {
+     "name": "Samsung Galaxy Note 8 256Gb Black/Blue - Garansi Internasional",
+     "harga": "Rp 13,150,000"
+    },
+    {
+     "name": "Samsung Galaxy Note 9 - Garansi Internasional",
+     "harga": "Rp 8,700,000"
+    },
+    {
+     "name": "Samsung Galaxy Note 9 - Garansi Internasional",
+     "harga": "Rp 12,900,000"
+    },
+    {
+     "name": "Samsung Keystone 3",
+     "harga": "Rp 270,000"
+    },
+    {
+     "name": "Samsung B310 Viton",
+     "harga": "Rp 325,000"
+    },
+    {
+     "name": "Samsung Galaxy Watch 42mm Midnight Black - Garansi Resmi SEIN",
+     "harga": "Rp 3,325,000"
+    },
+    {
+     "name": "Samsung Gear S3 Frontier Black - Garansi Resmi SEIN",
+     "harga": "Rp 3,235,000"
+    },
+    {
+     "name": "Samsung Galaxy J1 Mini",
+     "harga": "Rp 1,010,000"
+    },
+    {
+     "name": "Samsung Galaxy J2 Core",
+     "harga": "Rp 1,195,000"
+    },
+    {
+     "name": "Samsung Galaxy J2 Prime",
+     "harga": "Rp 1,285,000"
+    },
+    {
+     "name": "Samsung Galaxy J2 Pro",
+     "harga": "Rp 1,480,000"
+    },
+    {
+     "name": "Samsung Galaxy J2 Pro",
+     "harga": "Rp 1,695,000"
+    },
+    {
+     "name": "Samsung Galaxy J4",
+     "harga": "Rp 1,740,000"
+    },
+    {
+     "name": "Samsung Galaxy J4 Plus",
+     "harga": "Rp 1,860,000"
+    },
+    {
+     "name": "Samsung Galaxy J5 Pro",
+     "harga": "Rp 2,385,000"
+    },
+    {
+     "name": "Samsung Galaxy J6+",
+     "harga": "Rp 2,480,000"
+    },
+    {
+     "name": "Samsung Galaxy J6+",
+     "harga": "Rp 2,985,000"
+    },
+    {
+     "name": "Samsung Galaxy J7 Prime",
+     "harga": "Rp 2,285,000"
+    },
+    {
+     "name": "Samsung Galaxy J7 Plus",
+     "harga": "Rp 2,565,000"
+    },
+    {
+     "name": "Samsung Galaxy J8",
+     "harga": "Rp 3,120,000"
+    },
+    {
+     "name": "Samsung Galaxy M10",
+     "harga": "Rp 1,615,000"
+    },
+    {
+     "name": "Samsung Galaxy M20",
+     "harga": "Rp 2,520,000"
+    },
+    {
+     "name": "Samsung Galaxy A6",
+     "harga": "Rp 2,440,000"
+    },
+    {
+     "name": "Samsung Galaxy A6+",
+     "harga": "Rp 3,675,000"
+    },
+    {
+     "name": "Samsung Galaxy A7 (2018)",
+     "harga": "Rp 3,880,000"
+    },
+    {
+     "name": "Samsung Galaxy A7 (2018)",
+     "harga": "Rp 4,590,000"
+    },
+    {
+     "name": "Samsung Galaxy A8+ 2018",
+     "harga": "Rp 6,025,000"
+    },
+    {
+     "name": "Samsung Galaxy A9",
+     "harga": "Rp 7,500,000"
+    },
+    {
+     "name": "Samsung Galaxy A30",
+     "harga": "Rp 2,970,000"
+    },
+    {
+     "name": "Samsung Galaxy A50",
+     "harga": "Rp 3,600,000"
+    },
+    {
+     "name": "Samsung Galaxy A50",
+     "harga": "Rp 4,425,000"
+    },
+    {
+     "name": "Samsung Galaxy S4 - Garansi Distributor",
+     "harga": "Rp 1,150,000"
+    },
+    {
+     "name": "Samsung Galaxy S8+ - Garansi Resmi SEIN",
+     "harga": "Rp 8,400,000"
+    },
+    {
+     "name": "Samsung Galaxy S9 - Garansi Resmi Samsung Indonesia",
+     "harga": "Rp 9,900,000"
+    },
+    {
+     "name": "Samsung Galaxy S9+ - Garansi Resmi SEIN",
+     "harga": "Rp 11,800,000"
+    },
+    {
+     "name": "Samsung Galaxy S10+ - Garansi Resmi SEIN",
+     "harga": "Rp 12,750,000"
+    },
+    {
+     "name": "Samsung Galaxy S10+ - Garansi Resmi SEIN",
+     "harga": "Rp 16,800,000"
+    },
+    {
+     "name": "Samsung Galaxy S10+ - Garansi Resmi SEIN",
+     "harga": "Rp 21,850,000"
+    },
+    {
+     "name": "Samsung Galaxy S8 - Garansi Internasional",
+     "harga": "Rp 8,750,000"
+    },
+    {
+     "name": "Samsung Galaxy S8+ - Garansi Internasional",
+     "harga": "Rp 8,850,000"
+    },
+    {
+     "name": "Samsung Galaxy S9 - Garansi Internasional",
+     "harga": "Rp 7,750,000"
+    },
+    {
+     "name": "Samsung Galaxy S9+ - Garansi Internasional",
+     "harga": "Rp 7,900,000"
+    },
+    {
+     "name": "Samsung Galaxy S9+ - Garansi Internasional",
+     "harga": "Rp 8,650,000"
+    },
+    {
+     "name": "Samsung Galaxy S10 - Garansi Internasional",
+     "harga": "Rp 9,850,000"
+    },
+    {
+     "name": "Samsung Galaxy S10+ - Garansi Internasional",
+     "harga": "Rp 10,950,000"
+    },
+    {
+     "name": "Samsung Galaxy S10+ - Garansi Internasional",
+     "harga": "Rp 15,200,000"
+    },
+    {
+     "name": "Vivan Battery For Samsung Galaxy Note3 3200mAh",
+     "harga": "Rp 95,000"
+    },
+    {
+     "name": "Hippo Battery For Samsung Galaxy Note1 (N7000) 3200mAh",
+     "harga": "Rp 95,000"
+    },
+    {
+     "name": "Hippo Battery For Samsung Galaxy Note2 (N7100) 3600mAh",
+     "harga": "Rp 115,000"
+    },
+    {
+     "name": "Hippo Battery For Samsung Galaxy Note3 (N9000) 3600mAh",
+     "harga": "Rp 120,000"
+    },
+    {
+     "name": "Hippo Battery For Samsung Galaxy Note4 (N9100) 3850mAh",
+     "harga": "Rp 130,000"
+    },
+    {
+     "name": "Hippo Battery For Samsung Galaxy S3 (I9300) 2850mAh",
+     "harga": "Rp 100,000"
+    },
+    {
+     "name": "Hippo Battery For Samsung Galaxy S3 Mini (I8190) 2000mAh",
+     "harga": "Rp 85,000"
+    },
+    {
+     "name": "Hippo Battery For Samsung Galaxy S4 (I9500) 3200mAh",
+     "harga": "Rp 105,000"
+    },
+    {
+     "name": "Hippo Battery For Samsung Galaxy S4 Slim 2350mAh",
+     "harga": "Rp 60,000"
+    },
+    {
+     "name": "Hippo Battery For Samsung Galaxy S5 (I9600) 3400mAh",
+     "harga": "Rp 140,000"
+    },
+    {
+     "name": "Hippo Battery For Samsung Galaxy S6 3200mAh",
+     "harga": "Rp 130,000"
+    },
+    {
+     "name": "Hippo Battery For Samsung Galaxy J1 (J100) 2350mAh",
+     "harga": "Rp 105,000"
+    },
+    {
+     "name": "Hippo Battery For Samsung Galaxy J5 (J500) 3450mAh",
+     "harga": "Rp 120,000"
+    },
+    {
+     "name": "Hippo Battery For Samsung Galaxy J7 (J700) 3600mAh",
+     "harga": "Rp 135,000"
+    },
+    {
+     "name": "Hippo Battery For Samsung Galaxy E5 (E500) 3200mAh",
+     "harga": "Rp 120,000"
+    },
+    {
+     "name": "Hippo Battery For Samsung Galaxy E7 3600mAh",
+     "harga": "Rp 135,000"
+    },
+    {
+     "name": "Hippo Battery For Samsung Galaxy A3 (A300) 2600mAh",
+     "harga": "Rp 105,000"
+    },
+    {
+     "name": "Hippo Battery For Samsung Galaxy A5 2850mAh",
+     "harga": "Rp 115,000"
+    },
+    {
+     "name": "Hippo Battery For Samsung Galaxy A7 3450mAh",
+     "harga": "Rp 125,000"
+    },
+    {
+     "name": "Hippo Battery For Samsung Galaxy Young (S5360) 1600mAh",
+     "harga": "Rp 75,000"
+    },
+    {
+     "name": "Hippo Battery For Samsung Galaxy Young 2 (G130) 1600mAh",
+     "harga": "Rp 75,000"
+    },
+    {
+     "name": "Hippo Battery For Samsung Galaxy Mega 5.8\" 3200mAh",
+     "harga": "Rp 105,000"
+    },
+    {
+     "name": "Hippo Battery For Samsung Galaxy Mega2 (G750) 3450mAh",
+     "harga": "Rp 120,000"
+    },
+    {
+     "name": "Hippo Battery For Samsung Galaxy Core (I8262) 2350mAh",
+     "harga": "Rp 100,000"
+    },
+    {
+     "name": "Hippo Battery For Samsung Galaxy Core2 (I8552) 2600mAh",
+     "harga": "Rp 105,000"
+    },
+    {
+     "name": "Hippo Battery For Samsung Galaxy Wonder (I8150) 2000mAh",
+     "harga": "Rp 65,000"
+    },
+    {
+     "name": "Hippo Battery For Samsung Champ (C3303) 1300mAh",
+     "harga": "Rp 45,000"
+    },
+    {
+     "name": "Hippo Battery For Samsung Galaxy Grand Duos (I9082) 2850mAh",
+     "harga": "Rp 100,000"
+    },
+    {
+     "name": "Hippo Battery For Samsung Galaxy Grand2 (G7102) 3450mAh",
+     "harga": "Rp 110,000"
+    },
+    {
+     "name": "Hippo Battery For Samsung Galaxy Grand Neo (I9060) 2850mAh",
+     "harga": "Rp 100,000"
+    },
+    {
+     "name": "Hippo Battery For Samsung Galaxy Ace1 (S5830) 1600mAh",
+     "harga": "Rp 80,000"
+    },
+    {
+     "name": "Hippo Battery For Samsung Galaxy Ace2 (I8160) 2000mAh",
+     "harga": "Rp 85,000"
+    },
+    {
+     "name": "Hippo Battery For Samsung Galaxy Ace3 (S7270) 2000mAh",
+     "harga": "Rp 90,000"
+    },
+    {
+     "name": "Hippo Battery For Samsung Galaxy Ace4 2000mAh",
+     "harga": "Rp 90,000"
+    },
+    {
+     "name": "Asus Vivo Watch Black - Ask Us For Discount",
+     "harga": "Rp 1,650,000"
+    },
+    {
+     "name": "Asus ROG Phone 128GB",
+     "harga": "Rp 11,150,000"
+    },
+    {
+     "name": "Asus ROG Phone 512GB",
+     "harga": "Rp 14,150,000"
+    },
+    {
+     "name": "Asus Zenfone Live L2 - ZA550KL 2/16Gb",
+     "harga": "Rp 1,049,000"
+    },
+    {
+     "name": "Asus Zenfone Max (M2) - ZB633KL 3/32Gb",
+     "harga": "Rp 1,799,000"
+    },
+    {
+     "name": "Asus Zenfone Max (M2) - ZB633KL 4/64Gb",
+     "harga": "Rp 2,199,000"
+    },
+    {
+     "name": "Asus Zenfone Max Pro (M1) ZB602KL 3/32Gb",
+     "harga": "Rp 1,695,000"
+    },
+    {
+     "name": "Asus Zenfone Max Pro (M1) ZB602KL 4/64Gb",
+     "harga": "Rp 2,050,000"
+    },
+    {
+     "name": "Asus Zenfone Max Pro (M1) ZB602KL 6/64Gb",
+     "harga": "Rp 2,525,000"
+    },
+    {
+     "name": "Asus Zenfone Max Pro (M2) ZB631KL 3/32Gb",
+     "harga": "Rp 2,399,000"
+    },
+    {
+     "name": "Asus Zenfone Max Pro (M2) ZB631KL 4/64Gb",
+     "harga": "Rp 2,599,000"
+    },
+    {
+     "name": "Asus Zenfone Max Pro (M2) ZB631KL 6/64Gb",
+     "harga": "Rp 2,999,000"
+    },
+    {
+     "name": "Asus Zenfone 5 ZE620KL 4/64Gb",
+     "harga": "Rp 2,999,000"
+    },
+    {
+     "name": "Asus Zenfone 5Z ZS620KL 6/128Gb",
+     "harga": "Rp 4,999,000"
+    },
+    {
+     "name": "Asus Zenfone 5Z ZS620KL 8/256Gb",
+     "harga": "Rp 5,999,000"
+    },
+    {
+     "name": "Hippo Battery For Asus Zenfone 4",
+     "harga": "Rp 105,000"
+    },
+    {
+     "name": "Xiaomi Mi 6X - (RAM 4GB, 64GB ROM) - Garansi Distributor",
+     "harga": "Rp 3,120,000"
+    },
+    {
+     "name": "Xiaomi Mi 6X - (RAM 6GB, 128GB ROM) - Garansi Distributor",
+     "harga": "Rp 3,590,000"
+    },
+    {
+     "name": "Xiaomi Mi 8 - (Ram 6GB, Rom 128GB) - Garansi Distributor",
+     "harga": "Rp 5,885,000"
+    },
+    {
+     "name": "Xiaomi Mi 8 Pro Transparent Titanium - (Ram 8GB, Rom 128B) - Garansi Distributor",
+     "harga": "Rp 7,415,000"
+    },
+    {
+     "name": "Xiaomi Mi A2 Lite - (RAM 3GB, 32GB ROM) - Garansi Distributor",
+     "harga": "Rp 2,435,000"
+    },
+    {
+     "name": "Xiaomi Mi A2 Lite - (RAM 4GB, 32GB ROM) - Garansi Distributor",
+     "harga": "Rp 2,385,000"
+    },
+    {
+     "name": "Xiaomi Mi A2 Lite - (RAM 4GB, 64GB ROM) - Garansi Distributor",
+     "harga": "Rp 2,765,000"
+    },
+    {
+     "name": "Xiaomi Mi A2 - (RAM 4GB, 64GB ROM) - Garansi Distributor",
+     "harga": "Rp 3,105,000"
+    },
+    {
+     "name": "Xiaomi Mi Max 2 - (RAM 4GB, 64GB ROM) - Gold - Garansi Distributor",
+     "harga": "Rp 2,430,000"
+    },
+    {
+     "name": "Xiaomi Mi Max 2 - (RAM 4GB, 64GB ROM) - Black - Garansi Distributor",
+     "harga": "Rp 2,430,000"
+    },
+    {
+     "name": "Xiaomi Mi Max 3 - (RAM 4GB, 64GB ROM) - Garansi Distributor",
+     "harga": "Rp 3,780,000"
+    },
+    {
+     "name": "Xiaomi Note 5 - (Ram 4GB, Rom 64GB) - Garansi Distributor",
+     "harga": "Rp 2,400,000"
+    },
+    {
+     "name": "Xiaomi Redmi Note 5 - (RAM 4GB, 64GB) - Garansi Distributor",
+     "harga": "Rp 2,410,000"
+    },
+    {
+     "name": "Xiaomi Redmi Note 6 - (RAM 4GB, 64GB) - Garansi Distributor",
+     "harga": "Rp 3,200,000"
+    },
+    {
+     "name": "Xiaomi Note 6 Pro - (Ram 3GB, Rom 32GB) - Garansi Distributor",
+     "harga": "Rp 2,475,000"
+    },
+    {
+     "name": "Xiaomi Note 6 Pro - (Ram 4GB, Rom 64GB) - Garansi Distributor",
+     "harga": "Rp 3,100,000"
+    },
+    {
+     "name": "Xiaomi Redmi 5A - (Ram 3GB, Rom 32GB) - Garansi Distributor",
+     "harga": "Rp 1,490,000"
+    },
+    {
+     "name": "Xiaomi Redmi 6A - (RAM 2GB, 32GB) - Garansi Distributor",
+     "harga": "Rp 1,580,000"
+    },
+    {
+     "name": "Xiaomi Redmi 6 Pro - (Ram 4GB, Rom 64GB) - Garansi Distributor",
+     "harga": "Rp 2,420,000"
+    },
+    {
+     "name": "Xiaomi Redmi Note 5A - (RAM 3GB, 32GB) - Garansi Distributor",
+     "harga": "Rp 2,280,000"
+    },
+    {
+     "name": "Xiaomi Redmi Note 5A - (RAM 4GB, 64GB) - Garansi Distributor",
+     "harga": "Rp 2,035,000"
+    },
+    {
+     "name": "Xiaomi Redmi S2 - (RAM 3GB, 32GB) - Garansi Distributor",
+     "harga": "Rp 1,945,000"
+    },
+    {
+     "name": "Xiaomi Redmi S2 - (RAM 3GB, 32GB) - Garansi Distributor (Global Version)",
+     "harga": "Rp 2,010,000"
+    },
+    {
+     "name": "Xiaomi Redmi S2 - (RAM 4GB, 64GB) - Garansi Distributor",
+     "harga": "Rp 2,285,000"
+    },
+    {
+     "name": "Xiaomi Redmi 5 - (RAM 2GB, 16GB) - Garansi Resmi",
+     "harga": "Rp 1,645,000"
+    },
+    {
+     "name": "Xiaomi Redmi 5 - (Ram 3GB, Rom 32GB) - Garansi Resmi",
+     "harga": "Rp 1,825,000"
+    },
+    {
+     "name": "Xiaomi Redmi 5Plus - (RAM 4GB, 64GB) - Garansi Resmi",
+     "harga": "Rp 2,135,000"
+    },
+    {
+     "name": "Xiaomi Redmi 6A - (RAM 2GB, 16GB) - Garansi Resmi",
+     "harga": "Rp 1,250,000"
+    },
+    {
+     "name": "Xiaomi Redmi 6 - (Ram 3GB, Rom 32GB) - Garansi Resmi",
+     "harga": "Rp 1,690,000"
+    },
+    {
+     "name": "Xiaomi Redmi 6 - (RAM 4GB, 64GB) - Garansi Resmi",
+     "harga": "Rp 1,975,000"
+    },
+    {
+     "name": "Xiaomi Redmi S2 - (RAM 3GB, 32GB) - Garansi Resmi",
+     "harga": "Rp 2,160,000"
+    },
+    {
+     "name": "Xiaomi Mi A2 Lite - (RAM 3GB, 32GB, Dual SIM) - Garansi Resmi",
+     "harga": "Rp 2,565,000"
+    },
+    {
+     "name": "Xiaomi Mi A2 Lite - (RAM 4GB, 64GB ROM) - Garansi Resmi",
+     "harga": "Rp 3,100,000"
+    },
+    {
+     "name": "Xiaomi Redmi Note 5A - (RAM 2GB, 16GB) - Garansi Resmi",
+     "harga": "Rp 1,535,000"
+    },
+    {
+     "name": "Xiaomi Redmi Note 5 - (RAM 3GB, 32GB) - Garansi Resmi",
+     "harga": "Rp 2,185,000"
+    },
+    {
+     "name": "Xiaomi Redmi Note 5 - (RAM 4GB, 64GB) - Garansi Resmi",
+     "harga": "Rp 2,260,000"
+    },
+    {
+     "name": "Xiaomi Redmi Note 6 Pro - (Ram 3GB, Rom 32GB) - Garansi Resmi",
+     "harga": "Rp 2,860,000"
+    },
+    {
+     "name": "Xiaomi Redmi Note 6 Pro - (Ram 4GB, Rom 64GB) - Garansi Resmi",
+     "harga": "Rp 3,310,000"
+    },
+    {
+     "name": "Xiaomi Redmi Note 7 - (RAM 4GB, 64GB) - Garansi Resmi",
+     "harga": "Rp 2,750,000"
+    },
+    {
+     "name": "Pocophone - (Ram 6GB, Rom 128GB) - Garansi Resmi",
+     "harga": "Rp 5,190,000"
+    },
+    {
+     "name": "Xiaomi Black Shark - 64GB - Garansi Internasional",
+     "harga": "Rp 5,500,000"
+    },
+    {
+     "name": "Xiaomi Black Shark - 128GB - Garansi Internasional",
+     "harga": "Rp 5,900,000"
+    },
+    {
+     "name": "Xiaomi Black Shark 2 - 128GB - Garansi Internasional",
+     "harga": "Rp 9,900,000"
+    },
+    {
+     "name": "Xiaomi Black Shark 2 - 256GB - Garansi Internasional",
+     "harga": "Rp 7,250,000"
+    },
+    {
+     "name": "Hippo Battery MS1 For 9000/9700/9780 (Bold / Onyx) 2000 mAh",
+     "harga": "Rp 65,000"
+    },
+    {
+     "name": "Hippo Battery MS1 For 9000/9700/9780 (Bold / Onyx) 2350 mAh",
+     "harga": "Rp 75,000"
+    },
+    {
+     "name": "Hippo Battery C-S2 8520/9300/83XX (Gemini) 1600 mAh",
+     "harga": "Rp 52,000"
+    },
+    {
+     "name": "Hippo Battery D-X1 8900/95xx/9630 (Javelin) 2000 mAh",
+     "harga": "Rp 56,000"
+    },
+    {
+     "name": "Hippo Battery F-M1 9100/9105/9670 (Pearl) 1600 mAh",
+     "harga": "Rp 45,000"
+    },
+    {
+     "name": "Hippo Battery F-S1 9800 1600 mAh",
+     "harga": "Rp 60,000"
+    },
+    {
+     "name": "Hippo Battery J-M1 9900/9860/9930/9850/9380/9790 (Dakota / Monza) 1600 mAh",
+     "harga": "Rp 75,000"
+    },
+    {
+     "name": "Hippo Battery J-M1 9860/9930/9850/9380/9790 (Dakota / Monza) 2000 mAh",
+     "harga": "Rp 80,000"
+    },
+    {
+     "name": "Hippo Battery J-M1 9900 2000 mAh",
+     "harga": "Rp 80,000"
+    },
+    {
+     "name": "Hippo Battery JS-1 9220/9320 (Davis / Amstrong) 2000 mAh",
+     "harga": "Rp 75,000"
+    },
+    {
+     "name": "Hippo Battery Z10 2350 mAh",
+     "harga": "Rp 105,000"
+    },
+    {
+     "name": "Hippo Battery Q10 2850 mAh",
+     "harga": "Rp 110,000"
+    },
+    {
+     "name": "Hippo Battery Q5 3250 mAh",
+     "harga": "Rp 55,000"
+    },
+    {
+     "name": "Hippo Battery Z3 3450 mAh",
+     "harga": "Rp 80,000"
+    },
+    {
+     "name": "Hippo Battery Z30 3850 mAh",
+     "harga": "Rp 60,000"
+    },
+    {
+     "name": "Lenovo P70",
+     "harga": "Rp 2,410,000"
+    },
+    {
+     "name": "Lenovo K5 Plus 3GB",
+     "harga": "Rp 2,500,000"
+    },
+    {
+     "name": "Lenovo K5 Plus",
+     "harga": "Rp 2,180,000"
+    },
+    {
+     "name": "Lenovo K4 Note A7010",
+     "harga": "Rp 2,085,000"
+    },
+    {
+     "name": "Lenovo A7000 PLUS",
+     "harga": "Rp 2,230,000"
+    },
+    {
+     "name": "Lenovo A7000",
+     "harga": "Rp 2,080,000"
+    },
+    {
+     "name": "Lenovo A6010",
+     "harga": "Rp 1,715,000"
+    },
+    {
+     "name": "Lenovo A6600",
+     "harga": "Rp 1,470,000"
+    },
+    {
+     "name": "Lenovo A6000 PLUS",
+     "harga": "Rp 1,625,000"
+    },
+    {
+     "name": "Lenovo A6000",
+     "harga": "Rp 1,440,000"
+    },
+    {
+     "name": "Lenovo A2010",
+     "harga": "Rp 975,000"
+    },
+    {
+     "name": "Lenovo A1000",
+     "harga": "Rp 800,000"
+    },
+    {
+     "name": "Lenovo Vibe Shoot Red",
+     "harga": "Rp 3,340,000"
+    },
+    {
+     "name": "Lenovo Vibe Shoot Grey",
+     "harga": "Rp 3,340,000"
+    },
+    {
+     "name": "Lenovo Vibe P1 Turbo",
+     "harga": "Rp 3,190,000"
+    },
+    {
+     "name": "Lenovo P1M",
+     "harga": "Rp 1,780,000"
+    },
+    {
+     "name": "Lenovo S60",
+     "harga": "Rp 1,880,000"
+    },
+    {
+     "name": "Lenovo S860",
+     "harga": "Rp 1,380,000"
+    },
+    {
+     "name": "Lenovo S850",
+     "harga": "Rp 1,605,000"
+    },
+    {
+     "name": "HP Slate 7 Voice Tab II - Bali Edition 2",
+     "harga": "Rp 1,000,000"
+    },
+    {
+     "name": "V-GeN R1 SALE !",
+     "harga": "Rp 649,000"
+    },
+    {
+     "name": "V-GeN Caviar S2",
+     "harga": "Rp 949,000"
+    }
+   ]
